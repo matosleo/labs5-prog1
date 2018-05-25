@@ -19,4 +19,5 @@ $ ./bin/prog1
 ```
 
 ## Dificuldades
-1. Em desenvolvimento
+1. Encontrar os métodos úteis p/ esse problema na documentação
+2. Os exemplos dos métodos na documentação são ruins de entender
