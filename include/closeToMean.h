@@ -10,6 +10,7 @@
 #define CLOSE_TO_MEAN_H
 
 #include <algorithm>
+#include <numeric>
 
 using namespace std;
 
